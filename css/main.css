@@ -17,7 +17,7 @@ html, body {
 
 body {
   color: #4a4a4a;
-  background-color: #fafbfc;
+  background-image: url(http://img02.deviantart.net/7874/i/2012/364/e/b/hex_by_cyntehl-d5pqtmj.png);
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -121,7 +121,10 @@ a:hover {
 
 #date {
   font-size: 16px;
-  padding-top: 0.25em;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 1px;
+  padding-right: 1px;
   margin-bottom: 2em;
   text-transform: uppercase;
   font-weight: 600;
